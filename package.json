@@ -1,0 +1,9 @@
+{
+  "name": "dj-success-kit-ai-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend dependencies for Netlify functions",
+  "dependencies": {
+    "@google/genai": "^1.14.0"
+  }
+}
